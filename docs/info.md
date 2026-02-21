@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The adder is a 4-bit ripple carry added, where 4 1-bit full adders are connected. The output result is 4-bits in binary and the carry of the calulation.
 
 ## How to test
 
-Explain how to use your project
+In the switches select both 4-bit numbers, where the first 4 switches are for the first number and the last 4 are for the second number. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None.
